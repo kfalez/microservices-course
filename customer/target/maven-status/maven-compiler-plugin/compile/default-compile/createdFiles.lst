@@ -1,0 +1,7 @@
+com/keltenfalez/customer/Customer.class
+com/keltenfalez/customer/CustomerApplication.class
+com/keltenfalez/customer/CustomerService.class
+com/keltenfalez/customer/CustomerRegistrationRequest.class
+com/keltenfalez/customer/Customer$CustomerBuilder.class
+com/keltenfalez/customer/CustomerController.class
+com/keltenfalez/customer/CustomerRepository.class

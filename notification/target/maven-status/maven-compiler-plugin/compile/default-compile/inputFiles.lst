@@ -1,0 +1,7 @@
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/NotificationController.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/NotificationRepository.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/NotificationService.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/rabbitmq/NotificationConsumer.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/NotificationApplication.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/NotificationConfig.java
+/Users/keltenfalez/Desktop/learning/microservices/keltenservices/notification/src/main/java/com/keltenfalez/notification/Notification.java

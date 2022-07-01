@@ -1,0 +1,9 @@
+com/keltenfalez/notification/NotificationRepository.class
+com/keltenfalez/notification/NotificationController.class
+com/keltenfalez/notification/Notification.class
+com/keltenfalez/notification/NotificationApplication$Person.class
+com/keltenfalez/notification/NotificationService.class
+com/keltenfalez/notification/Notification$NotificationBuilder.class
+com/keltenfalez/notification/rabbitmq/NotificationConsumer.class
+com/keltenfalez/notification/NotificationApplication.class
+com/keltenfalez/notification/NotificationConfig.class

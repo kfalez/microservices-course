@@ -1,0 +1,4 @@
+com/keltenfalez/clients/fraud/FraudClient.class
+com/keltenfalez/clients/notification/NotificationRequest.class
+com/keltenfalez/clients/fraud/FraudCheckResponse.class
+com/keltenfalez/clients/notification/NotificationClient.class

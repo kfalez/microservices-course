@@ -1,0 +1,6 @@
+com/keltenfalez/fraud/FraudCheckHistory.class
+com/keltenfalez/fraud/FraudController.class
+com/keltenfalez/fraud/FraudCheckService.class
+com/keltenfalez/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/keltenfalez/fraud/FraudCheckHistoryRepository.class
+com/keltenfalez/fraud/FraudApplication.class
